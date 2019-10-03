@@ -1,4 +1,4 @@
-# Barebones React/TypeScript/Express/Sass Boilerplate
+# mysql-nodejs-react-master
 This project is a starting point for a TypeScript based React app that also has a local API server using express.
 
 There are 2 different Webpack configurations. One for the server and one for the client.
